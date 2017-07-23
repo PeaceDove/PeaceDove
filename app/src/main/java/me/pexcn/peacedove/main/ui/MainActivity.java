@@ -6,7 +6,6 @@ import android.os.Bundle;
 import me.pexcn.peacedove.R;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
